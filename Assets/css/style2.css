@@ -1,0 +1,17 @@
+.wrapper{
+    
+   width: 20%;
+   margin: 0px;
+   
+}
+
+.centers{
+    
+   margin-left:190px;
+   margin-top:40px;
+   background-color:white;
+   width: 960px;
+   border-bottom: 1px solid gray;
+   height: 400px;
+   
+}
